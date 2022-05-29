@@ -1,0 +1,1 @@
+#foother.md dosyası içeriği.
